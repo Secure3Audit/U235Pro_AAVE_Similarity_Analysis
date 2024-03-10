@@ -1,0 +1,306 @@
+github.com/AlDanial/cloc v 1.98  T=0.23 s (17.2 files/s, 47044.4 lines/s)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+File                                                                                                                                      blank        comment           code
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+target_code/aave-v3-core/contracts/protocol/pool/Pool.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                     58             84            595
+target_code/aave-v3-core/contracts/protocol/libraries/logic/ValidationLogic.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                     78            170            508
+target_code/aave-v3-core/contracts/protocol/pool/PoolConfigurator.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                     66             64            389
+target_code/aave-v3-core/contracts/protocol/libraries/logic/LiquidationLogic.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                     55            103            369
+target_code/aave-v3-core/contracts/protocol/libraries/configuration/ReserveConfiguration.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                     60            232            319
+target_code/aave-v3-core/contracts/protocol/libraries/logic/BorrowLogic.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                     44             47            262
+target_code/aave-v3-core/contracts/protocol/tokenization/StableDebtToken.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                     61             69            258
+target_code/aave-v3-core/certora/harness/ReserveConfigurationHarness.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                     45             43            249
+target_code/aave-v3-core/contracts/protocol/libraries/logic/ReserveLogic.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                     39             89            234
+target_code/aave-v3-core/contracts/misc/AaveProtocolDataProvider.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                     32             29            232
+target_code/aave-v3-core/contracts/protocol/libraries/logic/SupplyLogic.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                     37             57            203
+target_code/aave-v3-core/contracts/protocol/libraries/types/DataTypes.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                     22             43            200
+target_code/aave-v3-core/contracts/protocol/libraries/logic/FlashLoanLogic.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                     25             46            199
+target_code/aave-v3-core/contracts/misc/L2Encoder.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                     31            113            192
+target_code/aave-v3-core/contracts/protocol/libraries/logic/ConfiguratorLogic.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                     32             44            192
+target_code/aave-v3-core/contracts/protocol/libraries/logic/GenericLogic.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                     31             51            187
+target_code/aave-v3-core/contracts/protocol/tokenization/AToken.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                     35             52            169
+target_code/aave-v3-core/contracts/protocol/pool/DefaultReserveInterestRateStrategy.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                     42             52            162
+target_code/aave-v3-core/contracts/protocol/libraries/logic/CalldataLogic.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                     27             90            158
+target_code/aave-v3-core/contracts/protocol/libraries/configuration/UserConfiguration.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                     19             85            132
+target_code/aave-v3-core/contracts/protocol/tokenization/base/IncentivizedERC20.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                     27             80            128
+target_code/aave-v3-core/contracts/protocol/configuration/PoolAddressesProvider.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                     28             55            126
+target_code/aave-v3-core/contracts/protocol/libraries/logic/PoolLogic.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                     19             51            118
+target_code/aave-v3-core/contracts/protocol/tokenization/VariableDebtToken.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                     23             25            107
+target_code/aave-v3-core/contracts/protocol/libraries/logic/BridgeLogic.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                     23             27            100
+target_code/aave-v3-core/contracts/protocol/libraries/helpers/Errors.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                      1              6             93
+target_code/aave-v3-core/contracts/misc/AaveOracle.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                     16             38             92
+target_code/aave-v3-core/contracts/protocol/tokenization/base/ScaledBalanceTokenBase.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                     25             43             88
+target_code/aave-v3-core/contracts/protocol/pool/L2Pool.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                     20             23             85
+target_code/aave-v3-core/contracts/protocol/configuration/ACLManager.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                     23             30             80
+target_code/aave-v3-core/contracts/protocol/libraries/logic/EModeLogic.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                     10             33             69
+target_code/aave-v3-core/contracts/protocol/tokenization/base/DebtTokenBase.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                     12             28             62
+target_code/aave-v3-core/contracts/protocol/libraries/math/WadRayMath.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                     14             55             57
+target_code/aave-v3-core/contracts/protocol/configuration/PoolAddressesProviderRegistry.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                     16             30             56
+target_code/aave-v3-core/contracts/protocol/configuration/PriceOracleSentinel.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                     14             30             53
+target_code/aave-v3-core/contracts/misc/ZeroReserveInterestRateStrategy.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                     23             31             51
+target_code/aave-v3-core/contracts/protocol/libraries/math/MathUtils.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                     13             35             51
+target_code/aave-v3-core/certora/harness/UserConfigurationHarness.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                     14             15             45
+target_code/aave-v3-core/certora/harness/SimpleERC20.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                      9              4             44
+target_code/aave-v3-core/contracts/deployments/ReservesSetupHelper.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                      5             13             41
+target_code/aave-v3-core/contracts/protocol/libraries/logic/IsolationModeLogic.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                      7             17             40
+target_code/aave-v3-core/contracts/protocol/libraries/types/ConfiguratorInputTypes.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                      3              1             37
+target_code/aave-v3-core/contracts/protocol/libraries/aave-upgradeability/BaseImmutableAdminUpgradeabilityProxy.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                      9             40             36
+target_code/aave-v3-core/contracts/protocol/tokenization/base/EIP712Base.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                      8             28             34
+target_code/aave-v3-core/contracts/protocol/tokenization/base/MintableIncentivizedERC20.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                      9             24             33
+target_code/aave-v3-core/contracts/protocol/libraries/aave-upgradeability/VersionedInitializable.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                      9             38             30
+target_code/aave-v3-core/contracts/protocol/libraries/math/PercentageMath.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                      6             26             29
+target_code/aave-v3-core/contracts/protocol/pool/PoolStorage.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                     12             19             20
+target_code/aave-v3-core/certora/harness/ATokenHarness.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                      7              6             18
+target_code/aave-v3-core/certora/harness/SymbolicPriceOracle.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                      6              0             17
+target_code/aave-v3-core/certora/harness/StableDebtTokenHarness.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                      9             10             16
+target_code/aave-v3-core/certora/harness/PoolHarness.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                      5              1             15
+target_code/aave-v3-core/contracts/protocol/libraries/aave-upgradeability/InitializableImmutableAdminUpgradeabilityProxy.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                      3             12             14
+target_code/aave-v3-core/contracts/protocol/libraries/helpers/Helpers.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                      2             12             14
+target_code/aave-v3-core/contracts/protocol/tokenization/DelegationAwareAToken.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                      4             20             13
+target_code/aave-v3-core/contracts/flashloan/base/FlashLoanReceiverBase.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                      3              6             12
+target_code/aave-v3-core/contracts/flashloan/base/FlashLoanSimpleReceiverBase.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                      3              6             12
+target_code/aave-v3-core/certora/harness/VariableDebtTokenHarness.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        0              0              0
+ removed                                                                                                                                      5              1             11
+source_code/contracts-internal/contracts-internal/contracts/EmptyContract.sol
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        1              2              6
+ removed                                                                                                                                      0              0              0
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SUM:
+ same                                                                                                                                         0              0              0
+ modified                                                                                                                                     0              0              0
+ added                                                                                                                                        1              2              6
+ removed                                                                                                                                   1284           2482           7156
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
