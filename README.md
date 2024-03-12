@@ -25,7 +25,7 @@ A copy of the codes has also been cloned into [source_code/](source_code/contrac
 ## Conclusion
 Based on our comparison, we conclude that the **[source](#source)** is a subset of the **[target](#target)** with approximately `7156` loc reduction.
 
-Prior security assessments on target repos can be a good reference. Readers of this analysis, based on your security requirements, should determine on their own whether or not to directly trust the prior or existing security assessments or audits on target repos.
+Target has gone through multiple rounds of [security audits](https://docs.aave.com/developers/deployed-contracts/security-and-audits). Prior security assessments on target repos can be a good reference. Readers of this analysis, based on your security requirements, should determine on their own whether or not to directly trust the prior or existing security assessments or audits on target repos.
 
 
 ## Methodology for Similarity Comparison
